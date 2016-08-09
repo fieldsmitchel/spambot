@@ -1,4 +1,8 @@
 {
 	"fileVersion": 1,
-	"versions": {}
+	"versions": {
+		"dini": "1.0.1",
+		"pegged": "~master",
+		"ctini": "0.2.1"
+	}
 }

@@ -1,7 +1,8 @@
 *.sublime*
 spambot
-irc.conf
-log*
+irc.*
+blacklist.*
+log.*
 
 # Compiled Object files
 *.o
